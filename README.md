@@ -2,10 +2,10 @@
 
 A simple example of Isomorphic bundling using webpack
 
-Webpack 4
-HMR & hot reload on both server and client
-React
-Babel 7
+* Webpack 4
+* HMR & hot reload on both server and client
+* React 16
+* Babel 7
 
 ## Usage
 
